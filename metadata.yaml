@@ -1,0 +1,35 @@
+_repo: Talents-Incorporated_23845
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leinster, Murray
+    aliases:
+    - Jenkins, William Fitzgerald
+    - Jenkins, Will
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '7321'
+    url: http://www.gutenberg.org/2009/agents/7321
+    wikipedia: http://en.wikipedia.org/wiki/Murray_Leinster
+description: One of the sole survivors of a raid that wiped out virtually his entire
+  planet, Captain Bors is adrift -- literally and figuratively. His encounter with
+  a group of misfits with an unusual assemblage of talents, skills, and superpowers
+  sets his life on a course he never could have imagined. This entertaining and engaging
+  book is sure to please fans of golden-era SF.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23845'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Talents, Incorporated
+url: http://www.gutenberg.org/ebooks/23845
